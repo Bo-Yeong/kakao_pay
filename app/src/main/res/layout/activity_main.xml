@@ -27,5 +27,6 @@
         android:id="@+id/buttonPay"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="결제하기" />
+        android:text="결제하기"
+        app:backgroundTint="#FFEB3B" />
 </LinearLayout>
